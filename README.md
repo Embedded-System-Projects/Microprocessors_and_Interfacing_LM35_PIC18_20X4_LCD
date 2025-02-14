@@ -48,7 +48,7 @@ This project involves interfacing an **LM35 temperature sensor** with a **PIC18F
   - `> 30°C` → **Hot**
  
 ## Circuit Diagram
-   ![Circuit Diagram](Documentation/Circuit_Diagram.jpg)
+   ![Circuit Diagram](Documentation/Circuit_Diagram.png)
 
 ## **Installation**
 ### **1. Clone the Repository**
